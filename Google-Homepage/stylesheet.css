@@ -1,0 +1,120 @@
+.logo {
+	width: 275px;
+	padding-top: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+input[type='text']{
+	font-size: 16px;
+}
+.input {
+	width: 600px;
+	height: 35px;
+	border-style: solid;
+	border-color: #D9D9D9;
+	border-width: 1px;
+}
+.box {
+	text-align: center;
+}
+#icon {
+	background: url(http://az290055.vo.msecnd.net/images/mic_icon.png) no-repeat;
+	background-position: 570px 7px;
+
+}
+.button {
+	display: block;
+	text-align:center;
+	padding-top: 30px;
+}
+#buttons {
+	background-color: #EDEDED;
+	border: none;
+	color: #807D7D;
+	padding: 10px 18px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 13px;
+	display: inline-block;
+	border-radius: 2px;
+	margin: 3px;
+	font-family: Arial;
+	font-weight: bold;
+}
+#buttons:hover {
+	border: 1px solid #B3B3B3;
+	color: black;
+}
+.input:hover {
+	border: 1px solid #B3B3B3;
+}
+.header {
+	width: 100%;
+	display: block;
+	font-family: Arial;
+	position: fixed;
+	top: 10px;
+	font-size: 15px;
+	color: #807D7D;
+}
+#head {
+	float: right;
+	padding-right: 25px;
+}
+
+.apps {
+	vertical-align: middle;
+}
+.notf {
+	vertical-align: middle;
+}
+
+.footer {
+	width: 100%;
+	display: block;
+	background-color: #F2F2F2;
+	padding: 20px;
+	font-family: Arial;
+	font-size: .85em;
+	border: 1px solid #EDEDED;
+	position: fixed;
+	bottom: 0;
+	margin-left: -20px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	display: inline;
+	padding-right: 15px;
+	clear: both;
+
+}
+#foot_1 {
+	float: left;
+	color: #807D7D;
+	padding-left: 25px;
+}
+
+#foot_2 {
+	float: right;
+	padding-right: 25px;
+	color: #807D7D;
+}
+.header a {
+	text-decoration: none;
+	color: #807D7D;
+}
+.header a:hover {
+	text-decoration: underline;
+}
+.footer a {
+	text-decoration: none;
+	color: #807D7D;
+}
+.footer a:hover {
+	text-decoration: underline;
+}
